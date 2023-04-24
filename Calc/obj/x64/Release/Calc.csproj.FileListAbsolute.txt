@@ -1,0 +1,15 @@
+C:\Users\denis\source\repos\Calc\Calc\bin\x64\Release\Calc.exe.config
+C:\Users\denis\source\repos\Calc\Calc\bin\x64\Release\Calc.exe
+C:\Users\denis\source\repos\Calc\Calc\bin\x64\Release\Calc.pdb
+C:\Users\denis\source\repos\Calc\Calc\obj\x64\Release\MainWindow.g.cs
+C:\Users\denis\source\repos\Calc\Calc\obj\x64\Release\App.g.cs
+C:\Users\denis\source\repos\Calc\Calc\obj\x64\Release\Calc_MarkupCompile.cache
+C:\Users\denis\source\repos\Calc\Calc\obj\x64\Release\Calc_MarkupCompile.lref
+C:\Users\denis\source\repos\Calc\Calc\obj\x64\Release\MainWindow.baml
+C:\Users\denis\source\repos\Calc\Calc\obj\x64\Release\Calc.g.resources
+C:\Users\denis\source\repos\Calc\Calc\obj\x64\Release\Calc.Properties.Resources.resources
+C:\Users\denis\source\repos\Calc\Calc\obj\x64\Release\Calc.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\Calc\Calc\obj\x64\Release\Calc.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Calc\Calc\obj\x64\Release\Calc.exe
+C:\Users\denis\source\repos\Calc\Calc\obj\x64\Release\Calc.pdb
+C:\Users\denis\source\repos\Calc\Calc\obj\x64\Release\Calc.csproj.AssemblyReference.cache

@@ -7,25 +7,28 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="474.124" Width="405.67" Background="#FFB8BEFF" HorizontalContentAlignment="Center" VerticalContentAlignment="Center">
     <Grid>
-        <Button Content="/" HorizontalAlignment="Left" Margin="90,138,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
-        <Button Content="*" HorizontalAlignment="Left" Margin="145,138,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
-        <Button Content="-" HorizontalAlignment="Left" Margin="200,138,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
-        <Button Content="+" HorizontalAlignment="Left" Margin="255,138,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
+        <Button Content="/" HorizontalAlignment="Left" Margin="90,138,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTheOperation"/>
+        <Button Content="*" HorizontalAlignment="Left" Margin="145,138,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTheOperation"/>
+        <Button Content="-" HorizontalAlignment="Left" Margin="200,138,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTheOperation"/>
+        <Button Content="+" HorizontalAlignment="Left" Margin="255,138,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTheOperation"/>
         <Button Content="=" HorizontalAlignment="Left" Margin="255,193,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_Equals"/>
-        <Button Content="7" HorizontalAlignment="Left" Margin="90,193,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
-        <Button Content="8" HorizontalAlignment="Left" Margin="145,193,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
-        <Button Content="9" HorizontalAlignment="Left" Margin="200,193,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
+        <Button Content="7" HorizontalAlignment="Left" Margin="90,193,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputNumberExample"/>
+        <Button Content="8" HorizontalAlignment="Left" Margin="145,193,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputNumberExample"/>
+        <Button Content="9" HorizontalAlignment="Left" Margin="200,193,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputNumberExample"/>
         <Button Content="(" HorizontalAlignment="Left" Margin="255,248,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_BracketInput"/>
         <Button Content=")" HorizontalAlignment="Left" Margin="255,303,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_BracketInput"/>
-        <Button Content="4" HorizontalAlignment="Left" Margin="90,248,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
-        <Button Content="5" HorizontalAlignment="Left" Margin="145,248,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
-        <Button Content="6" HorizontalAlignment="Left" Margin="200,248,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
-        <Button Content="1" HorizontalAlignment="Left" Margin="90,303,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
-        <Button Content="2" HorizontalAlignment="Left" Margin="145,303,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
-        <Button Content="3" HorizontalAlignment="Left" Margin="200,303,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
-        <Button Content="0" HorizontalAlignment="Left" Margin="145,358,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTextExample"/>
+        <Button Content="4" HorizontalAlignment="Left" Margin="90,248,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputNumberExample"/>
+        <Button Content="5" HorizontalAlignment="Left" Margin="145,248,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputNumberExample"/>
+        <Button Content="6" HorizontalAlignment="Left" Margin="200,248,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputNumberExample"/>
+        <Button Content="1" HorizontalAlignment="Left" Margin="90,303,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputNumberExample"/>
+        <Button Content="2" HorizontalAlignment="Left" Margin="145,303,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputNumberExample"/>
+        <Button Content="3" HorizontalAlignment="Left" Margin="200,303,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputNumberExample"/>
+        <Button Content="0" HorizontalAlignment="Left" Margin="118,358,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputNumberExample"/>
         <TextBox x:Name="CalculationResultText" HorizontalAlignment="Left" Height="56" Margin="10,10,0,0" TextWrapping="Wrap" Text="Введите пример&#xD;&#xA;" VerticalAlignment="Top" Width="378" Background="#FFEEC8C8" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
         <TextBox x:Name="ResultRPNText" HorizontalAlignment="Left" Height="56" Margin="10,66,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="378" Background="#FFEEC8C8" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <Button Content="C" HorizontalAlignment="Left" Margin="173,358,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_Clear"/>
+        <Button Content="," HorizontalAlignment="Left" Margin="228,358,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputDot"/>
+        <Button Content="^" HorizontalAlignment="Left" Margin="320,303,0,0" VerticalAlignment="Top" Width="50" Height="50" Background="#FF98D8B8" FontSize="24" Click="Button_InputTheOperation"/>
 
     </Grid>
 </Window>
